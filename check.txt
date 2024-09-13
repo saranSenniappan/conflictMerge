@@ -1,1 +1,1 @@
-I have created file under Conflicts.
+I have deleted file under Conflicts.
