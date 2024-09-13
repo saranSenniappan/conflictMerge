@@ -1,1 +1,2 @@
-I have updated file under Conflicts.
+I have deleted file under Conflicts.
+
